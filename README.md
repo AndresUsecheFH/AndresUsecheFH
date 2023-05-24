@@ -1,16 +1,28 @@
-### Hola, soy Andres Useche
+
+# Andres Felipe Useche Hernandez
+*Bogotá, Colombia*
+
+**Estudiante de la Pontificia Universidad Javeriana**
+
+**Futuro cientifico de datos** 
 
 
-**AndresUsecheFH/AndresUsecheFH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Actualmente cursando segundo semestre.
+- Conocimientos en los lenguajes de programación C++ y Java.
+- Conociemiento del manejo, gestion, descripciones, prediciones y limpieza de bases de datos en Open Refine, R studio y Excel.
+- Repositorio en donde estan todos los ejercicios y talleres realizados a lo largo del curso de Programacion Avanzada.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
+
+
+
+
+
+## Repositorio Curso Programación avanzada
+
+ - [Repositorio Programación avanzada](https://github.com/AndresUsecheFH/Repositorio-Programacion-Avanzada.git)
+
 
