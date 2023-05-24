@@ -2,9 +2,9 @@
 # Andres Felipe Useche Hernandez
 *Bogotá, Colombia*
 
-**Estudiante de la Pontificia Universidad Javeriana**
+**Estudiante de la Pontificia Universidad Javeriana🌃🌇**
 
-**Futuro cientifico de datos** 
+**Futuro cientifico de datos💻📚📟** 
 
 
 - Actualmente cursando segundo semestre.
