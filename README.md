@@ -8,7 +8,7 @@
 
 
 - Actualmente cursando segundo semestre.
-- Conocimientos en los lenguajes de programación C++ y Java.
+- Conocimiento en lenguaje de programación Python
 - Conociemiento del manejo, gestion, descripciones, prediciones y limpieza de bases de datos en Open Refine, R studio y Excel.
 - Repositorio en donde estan todos los ejercicios y talleres realizados a lo largo del curso de Programacion Avanzada.
 
